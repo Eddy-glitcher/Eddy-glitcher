@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Luis Edier Aguirre 👋
+> Front-End Web Developer.
 
-<!--
-**Eddy-glitcher/Eddy-glitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <p>
+I am Front-End Web developer able to build a magnific experience, through interactive and beautiful interfaces. I'm an passionate for the self-improvement and the 
+constant training, fast learner, hard worker and team player. i'm searching for the opportunity to be part of this wonderfull and magnific Industry.
 
-Here are some ideas to get you started:
+I work everyday to be better than Yesterday. 😄
+
+
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
