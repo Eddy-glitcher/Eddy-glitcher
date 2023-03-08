@@ -29,7 +29,7 @@
 <p align="center">
   <i>Let's connect and chat!</i>
   
-<a href="linkedin.com/in/lüis-aguirre-7a453b259" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/lüis-aguirre-7a453b259" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="mailto:luis-gonzales6@hotmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
 
