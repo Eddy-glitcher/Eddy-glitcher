@@ -8,12 +8,12 @@
 </div>
 
 <div>
- <p>
+ <p align="center">
   I am Front-End Web developer able to build a magnific experience, through interactive and beautiful interfaces. I'm a passionate for the self-improvement and the 
   constant training, fast learner, hard worker and team player. i'm searching for the opportunity to be part of this wonderfull and magnific Industry.
  </p>
  
- <p>
+ <p align="center">
   I learn and work everyday to be better than Yesterday. 😄
  </p>
 
